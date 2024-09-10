@@ -24,6 +24,7 @@ h1{
     
 }
 main{
+    padding: 10px;
     border-left: 50px rgba(245,245,245,255) solid;
     border-right: 50px rgba(245,245,245,255);
     height: 100%;
